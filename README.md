@@ -1,6 +1,6 @@
 ### Hellow👋 I am Kunal Borse
 
-**A passionate Java developer..!**
+**A passionate Full Stack Java developer..!**
 <!--
 **kunalborse09/kunalborse09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
